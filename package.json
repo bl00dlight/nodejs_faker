@@ -1,0 +1,20 @@
+{
+  "name": "serp-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@extra/recaptcha": "^4.2.1-next.587",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "playwright-extra": "^4.3.3",
+    "serp": "^2.2.2"
+  }
+}
